@@ -1,0 +1,14 @@
+nav ul{
+
+    display: flex;
+}
+
+nav li{
+list-style: none;
+margin-right: 15px ;
+}
+
+nav li :hover{
+
+    background-color: lightpink;
+}
